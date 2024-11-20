@@ -1,3 +1,5 @@
+[Click here for the Apple Shortcuts version!](https://www.icloud.com/shortcuts/0a7e27fc96aa4c2daa10aa6d9f5cc4fa)
+
 # GPTtoTypora
 
 This is an AutoHotkey script that allows you to paste ChatGPT or Microsoft Copilot Markdown containing LaTeX delimiters in Typora's '$' LaTeX delimiter style.
